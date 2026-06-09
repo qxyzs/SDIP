@@ -128,7 +128,7 @@ The notebook will display the raw input , aSeqDIP denoised output and the RLG-DI
 
 ## Notes on Data
 
-This project was evaluated on fluorescence microscopy images such as the BioSR dataset. A typical input image can be obtained by averaging the raw wide-field frames. For quantitative evaluation:
+This project was evaluated on fluorescence microscopy images such as the BioSR dataset (Qiao C, Li D, 2020, https://doi.org/10.6084/m9.figshare.13264793.v9). A typical input image can be obtained by averaging the raw wide-field frames. For quantitative evaluation:
 
 - high-SNR images can be used as references for denoising evaluation;
 - SIM reconstructed images can be used as references for deconvolution/restoration evaluation;
